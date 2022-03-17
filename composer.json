@@ -1,0 +1,14 @@
+{
+  "name": "php-app-3/php-app-3",
+  "type": "project",
+  "description": "Array of php simple project",
+  "license": "",
+  "keywords": [],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
